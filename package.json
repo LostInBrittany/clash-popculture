@@ -1,0 +1,22 @@
+{
+  "name": "clash-popculture",
+  "version": "1.0.0",
+  "description": "Clash de Pop Culture : duels de pop culture votés en direct",
+  "type": "module",
+  "private": true,
+  "engines": {
+    "node": ">=26"
+  },
+  "scripts": {
+    "start": "node src/server.js",
+    "test": "node --test",
+    "db:start": "sh scripts/db-start.sh",
+    "db:stop": "sh scripts/db-stop.sh"
+  },
+  "dependencies": {
+    "express": "^5.3.0",
+    "htmx.org": "^2.0.11",
+    "pg": "^8.23.1",
+    "redis": "^6.3.1"
+  }
+}

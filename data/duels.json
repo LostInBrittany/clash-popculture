@@ -1,0 +1,732 @@
+[
+  {
+    "category": "Musique",
+    "left": "Deep Purple",
+    "right": "Black Sabbath"
+  },
+  {
+    "category": "Musique",
+    "left": "Renaud",
+    "right": "Johnny Hallyday"
+  },
+  {
+    "category": "Musique",
+    "left": "Bob Sinclar",
+    "right": "David Guetta"
+  },
+  {
+    "category": "Musique",
+    "left": "Maître Gims",
+    "right": "Jul"
+  },
+  {
+    "category": "Musique",
+    "left": "Alliage",
+    "right": "2Be3"
+  },
+  {
+    "category": "Musique",
+    "left": "Garou",
+    "right": "Céline Dion"
+  },
+  {
+    "category": "Musique",
+    "left": "Jean-Michel Jarre",
+    "right": "Jean-Jacques Goldman"
+  },
+  {
+    "category": "Musique",
+    "left": "The Beatles",
+    "right": "The Rolling Stones"
+  },
+  {
+    "category": "Musique",
+    "left": "Oasis",
+    "right": "Blur"
+  },
+  {
+    "category": "Musique",
+    "left": "Daft Punk",
+    "right": "Justice"
+  },
+  {
+    "category": "Musique",
+    "left": "IAM",
+    "right": "NTM"
+  },
+  {
+    "category": "Musique",
+    "left": "Metallica",
+    "right": "Megadeth"
+  },
+  {
+    "category": "Musique",
+    "left": "Michael Jackson",
+    "right": "Prince"
+  },
+  {
+    "category": "Musique",
+    "left": "Mylène Farmer",
+    "right": "Madonna"
+  },
+  {
+    "category": "Musique",
+    "left": "Indochine",
+    "right": "Téléphone"
+  },
+  {
+    "category": "Musique",
+    "left": "Nirvana",
+    "right": "Pearl Jam"
+  },
+  {
+    "category": "Musique",
+    "left": "Britney Spears",
+    "right": "Christina Aguilera"
+  },
+  {
+    "category": "Dessins animés",
+    "left": "Beyblade",
+    "right": "Bakugan"
+  },
+  {
+    "category": "Dessins animés",
+    "left": "Marcelino",
+    "right": "Les Malheurs de Sophie"
+  },
+  {
+    "category": "Dessins animés",
+    "left": "Albator",
+    "right": "Ulysse 31"
+  },
+  {
+    "category": "Dessins animés",
+    "left": "Dragon Ball",
+    "right": "Les Chevaliers du Zodiaque"
+  },
+  {
+    "category": "Dessins animés",
+    "left": "Les Mystérieuses Cités d’Or",
+    "right": "Il Était Une Fois… la Vie"
+  },
+  {
+    "category": "Dessins animés",
+    "left": "Nicky Larson",
+    "right": "Cobra"
+  },
+  {
+    "category": "Dessins animés",
+    "left": "Totally Spies",
+    "right": "Winx Club"
+  },
+  {
+    "category": "Dessins animés",
+    "left": "Action Man",
+    "right": "G.I. Joe"
+  },
+  {
+    "category": "Dessins animés",
+    "left": "Les Simpson",
+    "right": "South Park"
+  },
+  {
+    "category": "Dessins animés",
+    "left": "Les Simpson",
+    "right": "Futurama"
+  },
+  {
+    "category": "Dessins animés",
+    "left": "Pokémon",
+    "right": "Digimon"
+  },
+  {
+    "category": "Dessins animés",
+    "left": "Goldorak",
+    "right": "Capitaine Flam"
+  },
+  {
+    "category": "Dessins animés",
+    "left": "Tintin",
+    "right": "Astérix"
+  },
+  {
+    "category": "Dessins animés",
+    "left": "Les Schtroumpfs",
+    "right": "Les Bisounours"
+  },
+  {
+    "category": "Dessins animés",
+    "left": "Les Tortues Ninja",
+    "right": "Power Rangers"
+  },
+  {
+    "category": "Télé",
+    "left": "Cauchemar en Cuisine (UK)",
+    "right": "Cauchemar en Cuisine (FR)"
+  },
+  {
+    "category": "Télé",
+    "left": "Les Inconnus",
+    "right": "Les Nuls"
+  },
+  {
+    "category": "Télé",
+    "left": "Groland",
+    "right": "Les Guignols"
+  },
+  {
+    "category": "Télé",
+    "left": "Questions pour un Champion",
+    "right": "Des Chiffres et des Lettres"
+  },
+  {
+    "category": "Télé",
+    "left": "Tournez Manège",
+    "right": "L’Amour est dans le Pré"
+  },
+  {
+    "category": "Télé",
+    "left": "Intervilles",
+    "right": "Fort Boyard"
+  },
+  {
+    "category": "Télé",
+    "left": "Takeshi’s Castle",
+    "right": "Total Wipeout"
+  },
+  {
+    "category": "Télé",
+    "left": "Club Dorothée",
+    "right": "Récré A2"
+  },
+  {
+    "category": "Télé",
+    "left": "Le Juste Prix",
+    "right": "La Roue de la Fortune"
+  },
+  {
+    "category": "Télé",
+    "left": "Star Academy",
+    "right": "Loft Story"
+  },
+  {
+    "category": "Télé",
+    "left": "Koh-Lanta",
+    "right": "Pékin Express"
+  },
+  {
+    "category": "Télé",
+    "left": "Burger Quiz",
+    "right": "Le Maillon Faible"
+  },
+  {
+    "category": "Télé",
+    "left": "Thalassa",
+    "right": "Ushuaïa Nature"
+  },
+  {
+    "category": "Séries",
+    "left": "Caméra Café",
+    "right": "H"
+  },
+  {
+    "category": "Séries",
+    "left": "Un Gars, une Fille",
+    "right": "Scènes de Ménage"
+  },
+  {
+    "category": "Séries",
+    "left": "Papa Schultz",
+    "right": "Les Têtes Brûlées"
+  },
+  {
+    "category": "Séries",
+    "left": "Columbo",
+    "right": "Derrick"
+  },
+  {
+    "category": "Séries",
+    "left": "Zorro",
+    "right": "Thierry la Fronde"
+  },
+  {
+    "category": "Séries",
+    "left": "Walker, Texas Ranger",
+    "right": "L’Agence Tous Risques"
+  },
+  {
+    "category": "Séries",
+    "left": "Buffy contre les Vampires",
+    "right": "Charmed"
+  },
+  {
+    "category": "Séries",
+    "left": "Supercopter",
+    "right": "K2000"
+  },
+  {
+    "category": "Séries",
+    "left": "K2000",
+    "right": "Tonnerre Mécanique"
+  },
+  {
+    "category": "Séries",
+    "left": "Alice Nevers, le Juge est une Femme",
+    "right": "Docteur Q"
+  },
+  {
+    "category": "Séries",
+    "left": "Friends",
+    "right": "How I Met Your Mother"
+  },
+  {
+    "category": "Séries",
+    "left": "Kaamelott",
+    "right": "Game of Thrones"
+  },
+  {
+    "category": "Séries",
+    "left": "Breaking Bad",
+    "right": "The Wire"
+  },
+  {
+    "category": "Séries",
+    "left": "Lost",
+    "right": "Prison Break"
+  },
+  {
+    "category": "Séries",
+    "left": "X-Files",
+    "right": "Fringe"
+  },
+  {
+    "category": "Séries",
+    "left": "Hélène et les Garçons",
+    "right": "Premiers Baisers"
+  },
+  {
+    "category": "Séries",
+    "left": "Stranger Things",
+    "right": "Dark"
+  },
+  {
+    "category": "Séries",
+    "left": "Sherlock",
+    "right": "Dr House"
+  },
+  {
+    "category": "Séries",
+    "left": "Le Bureau des Légendes",
+    "right": "Engrenages"
+  },
+  {
+    "category": "Ciné",
+    "left": "Star Wars",
+    "right": "Star Trek"
+  },
+  {
+    "category": "Ciné",
+    "left": "Inglourious Basterds",
+    "right": "Django Unchained"
+  },
+  {
+    "category": "Ciné",
+    "left": "La Grande Vadrouille",
+    "right": "La 7e Compagnie"
+  },
+  {
+    "category": "Ciné",
+    "left": "Inception",
+    "right": "Tenet"
+  },
+  {
+    "category": "Ciné",
+    "left": "Léon",
+    "right": "L’Immortel"
+  },
+  {
+    "category": "Ciné",
+    "left": "Taxi",
+    "right": "Le Transporteur"
+  },
+  {
+    "category": "Ciné",
+    "left": "Mission: Impossible",
+    "right": "Jason Bourne"
+  },
+  {
+    "category": "Ciné",
+    "left": "Alien",
+    "right": "Predator"
+  },
+  {
+    "category": "Ciné",
+    "left": "Alien",
+    "right": "Aliens"
+  },
+  {
+    "category": "Ciné",
+    "left": "L’Aile ou la Cuisse",
+    "right": "La Soupe aux Choux"
+  },
+  {
+    "category": "Ciné",
+    "left": "Don Camillo",
+    "right": "La Vache et le Prisonnier"
+  },
+  {
+    "category": "Ciné",
+    "left": "Rocky",
+    "right": "Rambo"
+  },
+  {
+    "category": "Ciné",
+    "left": "Les Ripoux",
+    "right": "Inspecteur la Bavure"
+  },
+  {
+    "category": "Ciné",
+    "left": "Superman",
+    "right": "Spider-Man"
+  },
+  {
+    "category": "Ciné",
+    "left": "V for Vendetta",
+    "right": "1984"
+  },
+  {
+    "category": "Ciné",
+    "left": "Le Seigneur des Anneaux",
+    "right": "Harry Potter"
+  },
+  {
+    "category": "Ciné",
+    "left": "Marvel",
+    "right": "DC"
+  },
+  {
+    "category": "Ciné",
+    "left": "Matrix",
+    "right": "Terminator"
+  },
+  {
+    "category": "Ciné",
+    "left": "Retour vers le Futur",
+    "right": "Indiana Jones"
+  },
+  {
+    "category": "Ciné",
+    "left": "Le Dîner de Cons",
+    "right": "Les Visiteurs"
+  },
+  {
+    "category": "Ciné",
+    "left": "Astérix : Mission Cléopâtre",
+    "right": "OSS 117"
+  },
+  {
+    "category": "Ciné",
+    "left": "Jurassic Park",
+    "right": "Les Dents de la Mer"
+  },
+  {
+    "category": "Ciné",
+    "left": "Toy Story",
+    "right": "Le Voyage de Chihiro"
+  },
+  {
+    "category": "Ciné",
+    "left": "Batman (Burton)",
+    "right": "The Dark Knight (Nolan)"
+  },
+  {
+    "category": "Ciné",
+    "left": "Bienvenue chez les Ch’tis",
+    "right": "Intouchables"
+  },
+  {
+    "category": "Ciné",
+    "left": "S.O.S. Fantômes",
+    "right": "Gremlins"
+  },
+  {
+    "category": "Ciné",
+    "left": "Kill Bill",
+    "right": "Pulp Fiction"
+  },
+  {
+    "category": "Jeux vidéo",
+    "left": "Sega Megadrive",
+    "right": "Nintendo SNES"
+  },
+  {
+    "category": "Jeux vidéo",
+    "left": "PlayStation",
+    "right": "Xbox"
+  },
+  {
+    "category": "Jeux vidéo",
+    "left": "Mario",
+    "right": "Sonic"
+  },
+  {
+    "category": "Jeux vidéo",
+    "left": "Factorio",
+    "right": "Satisfactory"
+  },
+  {
+    "category": "Jeux vidéo",
+    "left": "Crash Bandicoot",
+    "right": "Spyro the Dragon"
+  },
+  {
+    "category": "Jeux vidéo",
+    "left": "Tropico",
+    "right": "Anno"
+  },
+  {
+    "category": "Jeux vidéo",
+    "left": "Metroid",
+    "right": "Castlevania"
+  },
+  {
+    "category": "Jeux vidéo",
+    "left": "F-Zero",
+    "right": "Wipeout"
+  },
+  {
+    "category": "Jeux vidéo",
+    "left": "Civilization",
+    "right": "Europa Universalis"
+  },
+  {
+    "category": "Jeux vidéo",
+    "left": "Forza Motorsport",
+    "right": "Gran Turismo"
+  },
+  {
+    "category": "Jeux vidéo",
+    "left": "Call of Duty",
+    "right": "Battlefield"
+  },
+  {
+    "category": "Jeux vidéo",
+    "left": "FIFA",
+    "right": "Pro Evolution Soccer"
+  },
+  {
+    "category": "Jeux vidéo",
+    "left": "Gears of War",
+    "right": "Mass Effect"
+  },
+  {
+    "category": "Jeux vidéo",
+    "left": "Need for Speed",
+    "right": "Burnout"
+  },
+  {
+    "category": "Jeux vidéo",
+    "left": "Quake",
+    "right": "Unreal Tournament"
+  },
+  {
+    "category": "Jeux vidéo",
+    "left": "Pinball",
+    "right": "Démineur"
+  },
+  {
+    "category": "Jeux vidéo",
+    "left": "The Elder Scrolls V: Skyrim",
+    "right": "The Elder Scrolls IV: Oblivion"
+  },
+  {
+    "category": "Jeux vidéo",
+    "left": "Tony Hawk’s Pro Skater",
+    "right": "SSX"
+  },
+  {
+    "category": "Jeux vidéo",
+    "left": "Terraria",
+    "right": "Minecraft"
+  },
+  {
+    "category": "Jeux vidéo",
+    "left": "God of War (1/2/3)",
+    "right": "God of War (4/5)"
+  },
+  {
+    "category": "Jeux vidéo",
+    "left": "Guitar Hero",
+    "right": "Rock Band"
+  },
+  {
+    "category": "Jeux vidéo",
+    "left": "Diablo",
+    "right": "Titan Quest"
+  },
+  {
+    "category": "Jeux vidéo",
+    "left": "Alex Kidd",
+    "right": "Conker"
+  },
+  {
+    "category": "Jeux vidéo",
+    "left": "Assassin’s Creed (I à Revelations)",
+    "right": "Assassin’s Creed (Unity à Shadows)"
+  },
+  {
+    "category": "Jeux vidéo",
+    "left": "Zelda: Ocarina of Time",
+    "right": "Final Fantasy VII"
+  },
+  {
+    "category": "Jeux vidéo",
+    "left": "Street Fighter II",
+    "right": "Mortal Kombat"
+  },
+  {
+    "category": "Jeux vidéo",
+    "left": "Tetris",
+    "right": "Pac-Man"
+  },
+  {
+    "category": "Jeux vidéo",
+    "left": "Half-Life",
+    "right": "Doom"
+  },
+  {
+    "category": "Jeux vidéo",
+    "left": "Game Boy",
+    "right": "Game Gear"
+  },
+  {
+    "category": "Jeux vidéo",
+    "left": "Pokémon Rouge",
+    "right": "Pokémon Bleu"
+  },
+  {
+    "category": "Jeux vidéo",
+    "left": "League of Legends",
+    "right": "Dota 2"
+  },
+  {
+    "category": "Jeux vidéo",
+    "left": "World of Warcraft",
+    "right": "Final Fantasy XIV"
+  },
+  {
+    "category": "Jeux vidéo",
+    "left": "Super Smash Bros.",
+    "right": "Mario Kart"
+  },
+  {
+    "category": "Jeux vidéo",
+    "left": "Dark Souls",
+    "right": "Elden Ring"
+  },
+  {
+    "category": "Jeux vidéo",
+    "left": "StarCraft",
+    "right": "Age of Empires"
+  },
+  {
+    "category": "Jeux vidéo",
+    "left": "Animal Crossing",
+    "right": "Stardew Valley"
+  },
+  {
+    "category": "Jeux vidéo",
+    "left": "GTA",
+    "right": "Red Dead Redemption"
+  },
+  {
+    "category": "Jeux vidéo",
+    "left": "Nintendo 64",
+    "right": "PlayStation"
+  },
+  {
+    "category": "Jeux vidéo",
+    "left": "Amiga",
+    "right": "Atari ST"
+  },
+  {
+    "category": "Jeux vidéo",
+    "left": "Commodore 64",
+    "right": "ZX Spectrum"
+  },
+  {
+    "category": "Dev",
+    "left": "Vim",
+    "right": "Emacs"
+  },
+  {
+    "category": "Dev",
+    "left": "Tabs",
+    "right": "Espaces"
+  },
+  {
+    "category": "Dev",
+    "left": "Mac",
+    "right": "PC"
+  },
+  {
+    "category": "Dev",
+    "left": "Java",
+    "right": "JavaScript"
+  },
+  {
+    "category": "Dev",
+    "left": "Python",
+    "right": "Ruby"
+  },
+  {
+    "category": "Dev",
+    "left": "React",
+    "right": "Vue"
+  },
+  {
+    "category": "Dev",
+    "left": "Git rebase",
+    "right": "Git merge"
+  },
+  {
+    "category": "Dev",
+    "left": "Linux",
+    "right": "Windows"
+  },
+  {
+    "category": "Dev",
+    "left": "Monolithe",
+    "right": "Microservices"
+  },
+  {
+    "category": "Dev",
+    "left": "Mode sombre",
+    "right": "Mode clair"
+  },
+  {
+    "category": "Dev",
+    "left": "VS Code",
+    "right": "IntelliJ"
+  },
+  {
+    "category": "Dev",
+    "left": "YAML",
+    "right": "JSON"
+  },
+  {
+    "category": "Dev",
+    "left": "« GIF » prononcé « guif »",
+    "right": "« GIF » prononcé « jif »"
+  },
+  {
+    "category": "Dev",
+    "left": "Stack Overflow",
+    "right": "Assistant IA"
+  },
+  {
+    "category": "Dev",
+    "left": "Café",
+    "right": "Thé"
+  }
+]
